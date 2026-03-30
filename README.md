@@ -1,4 +1,4 @@
-## Hello, this is my account :D
+## Hello, this is my account :P
 
 
 ## Who am I ?
@@ -6,14 +6,14 @@ I'm someone who ***loves*** technology since I was little, and I'm obsessed with
 
 ---
 
-## What do I know?
+## What do I know ?
 - Debian-based Operating Systems
 - Not much in terms of code, I mean, I'm not a real coder *yet*, but I know *some* simple stuff on Python and I know how to read and understand slightly some codes like CSS and stuff.
 
-## What am I learning right now?
+## What am I learning right now ?
 - Nothing as of right now
 
-## What do I want to learn?
+## What do I want to learn ?
 - C#/C++
 - CSS
 - Javascript
@@ -23,7 +23,8 @@ I'm someone who ***loves*** technology since I was little, and I'm obsessed with
 
   ---
 
-  ## Contact me
+  ## How to contact me ?
+Here is my discord and my email adress, I'll probably add more ways to contact me but that's all for now.
   discord.com/users/1045384513037013012
   
   mailto:Dr.Taiko@proton.me
