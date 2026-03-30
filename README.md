@@ -1,6 +1,5 @@
 ## Hello, this is my account :D
 
----
 
 ## Who am I ?
 I'm someone who ***loves*** technology since I was little, and I'm obsessed with trying silly things like playing Half Life 2 on every device I own, homebrew my consoles and install mods for 5 hours while knowing that I'll play it once and then never touch it again, ricing my Linux even though I should be working etc... In short, I'm a busy person for the wrong reasons. But sometimes I lock in and do the job for real.
