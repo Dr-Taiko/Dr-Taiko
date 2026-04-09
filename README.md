@@ -25,6 +25,6 @@ I'm someone who ***loves*** technology since I was little, and I'm obsessed with
 
   ## How to contact me ?
 Here is my discord and my email adress, I'll probably add more ways to contact me but that's all for now.
-  discord.com/users/1045384513037013012
-  
+
+  [![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1045384513037013012)
   [![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dr.taiko@proton.me)
