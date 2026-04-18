@@ -7,7 +7,7 @@ I'm someone who ***loves*** technology since I was little, and I'm obsessed with
 ---
 
 ## What do I know ?
-- Debian-based Operating Systems
+- How to use Debian-based Operating Systems
 - Not much in terms of code, I mean, I'm not a real coder *yet*, but I know *some* simple stuff on Python and I know how to read and understand slightly some codes like CSS and stuff.
 
 ## What am I learning right now ?
@@ -18,8 +18,8 @@ I'm someone who ***loves*** technology since I was little, and I'm obsessed with
 - CSS
 - Javascript
 - HTML
-- Redhat-based Operating Systems
-- Arch-based Operating Systems
+- How to use Redhat-based Operating Systems
+- How to use Arch-based Operating Systems
 
   ---
 
@@ -29,3 +29,6 @@ I'm currently available via Discord and Email. I'll likely add more ways to get 
 
   * **Discord:** [Dr. Taiko](https://www.google.com/search?q=https://discord.com/users/1045384513037013012)
   * **Email:** [Dr.Taiko@proton.me](mailto:Dr.Taiko@proton.me)
+
+#### Note:
+- When I say "how to use 'Distribution name'-based Operating Systems", I mean that I know (or don't) how to use these Operating Systems well and how to use them, for example, since I've only touched once one Arch-based distribution, I cannot say that I know how to use them, since I haven't used it enough to know how to use it.
