@@ -1,24 +1,24 @@
 ## Hello, and good morning! :P
 
 
-## Who am I ?
-I'm someone who ***loves*** technology since I was little, and I'm obsessed with trying silly things like playing Half Life 2 on every device I own, homebrew my consoles and install mods for 5 hours while knowing that I'll play it once and then never touch it again, ricing my Linux even though I should be working etc... In short, I'm a busy person for the wrong reasons. But sometimes I lock in and do the job for real.
+## About me
+I love Photography, art and Technology in general since as long as I remember.
+Those three hobbies made me, little by little, into the person I am today.
 
 ---
 
 ## What do I know ?
-- How to use Debian-based Operating Systems
+- How to use most Linux-based Operating Systems, exept Arch-based ones
 - Not much in terms of code, I mean, I'm not a real coder *yet*, but I know *some* simple stuff on Python and I know how to read and understand slightly some codes like CSS and stuff.
 
 ## What am I learning right now ?
 - Nothing as of right now
 
 ## What do I want to learn ?
-- C#/C++
+- HTML
 - CSS
 - Javascript
-- HTML
-- How to use Redhat-based Operating Systems
+- C#/C++
 - How to use Arch-based Operating Systems
 
   ---
@@ -27,8 +27,8 @@ I'm someone who ***loves*** technology since I was little, and I'm obsessed with
 
 I'm currently available via Discord and Email. I'll likely add more ways to get in touch soon\!
 
-  * **Discord:** [Dr. Taiko](https://www.google.com/search?q=https://discord.com/users/1045384513037013012)
+  * **Discord:** [Dr. Taiko](https://discord.com/users/1045384513037013012)
   * **Email:** [Dr.Taiko@proton.me](mailto:Dr.Taiko@proton.me)
 
 #### Note:
-- When I say "how to use 'Distribution name'-based Operating Systems", I mean that I know (or don't) how to use these Operating Systems well and how to use them, for example, since I've only touched once one Arch-based distribution, I cannot say that I know how to use them, since I haven't used it enough to know how to use it.
+- Make sure to check out my portfolio when you got time! It's at [drtaiko.fr](drtaiko.fr)
