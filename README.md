@@ -31,4 +31,4 @@ I'm currently available via Discord and Email. I'll likely add more ways to get 
   * **Email:** [Dr.Taiko@proton.me](mailto:Dr.Taiko@proton.me)
 
 #### Note:
-- Make sure to check out my portfolio when you got time! It's at [drtaiko.fr](drtaiko.fr)
+- Make sure to check out my portfolio when you got time! It's at [drtaiko.fr](https://drtaiko.fr)
