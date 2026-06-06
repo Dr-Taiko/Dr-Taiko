@@ -4,8 +4,7 @@
 ## About me
 I love Photography, art and Technology in general since as long as I remember.
 Those three hobbies made me, little by little, into the person I am today.
-
----
+Make sure to check out my portfolio when you got time for more stuff about me! It's at [drtaiko.fr](https://drtaiko.fr)
 
 ## What do I know ?
 - How to use most Linux-based Operating Systems, exept Arch-based ones
@@ -20,15 +19,10 @@ Those three hobbies made me, little by little, into the person I am today.
 - Javascript
 - C#/C++
 - How to use Arch-based Operating Systems
-
-  ---
-
+  
 ## How to contact me?
 
 I'm currently available via Discord and Email. I'll likely add more ways to get in touch soon\!
 
   * **Discord:** [Dr. Taiko](https://discord.com/users/1045384513037013012)
   * **Email:** [Dr.Taiko@proton.me](mailto:Dr.Taiko@proton.me)
-
-#### Note:
-- Make sure to check out my portfolio when you got time! It's at [drtaiko.fr](https://drtaiko.fr)
