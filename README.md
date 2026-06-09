@@ -8,7 +8,7 @@ Make sure to check out my portfolio when you got time for more stuff about me! I
 
 ## What do I know ?
 - How to use most Linux-based Operating Systems, exept Arch-based ones
-- Not much in terms of code, I mean, I'm not a real coder *yet*, but I know *some* simple stuff on Python and I know how to read and understand slightly some codes like CSS and stuff.
+- Not much in terms of code, I mean, I'm not a real coder *yet* (doesn't mean I'm vibe coding do not make any assumptions), but I know *some* simple stuff on Python and I know how to read and understand some languages like CSS and HTML.
 
 ## What am I learning right now ?
 - Nothing as of right now
